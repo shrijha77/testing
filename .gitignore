@@ -1,0 +1,11 @@
+Workspaces in VSCode are super useful. 
+They can have their own settings and seperate your projects in a way that each commit doesn’t impact other projects.
+
+go to File > Save Workspace as and go to the folder that you are currently working on.
+
+Make Your First Commit to Github
+All you need to do it push something to Github from VSCode is:
+
+Save the changes you made to your file;
+Commit to the Master Branch;
+Push to Github.
